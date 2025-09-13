@@ -102,7 +102,7 @@ Abra uma *Issue* para discutir novas ideias ou submeta um *Pull Request* com as 
 
 ## 👤 Contato
 
-**Diego Bezerra de Lima**
+**Diego Queiroz dos Santos**
 
   * **LinkedIn:** [linkedin.com/in/dbltecnologia](https://www.linkedin.com/in/dbltecnologia)
   * **WhatsApp:** [+55 (61) 98301-3768](https://www.google.com/search?q=https://wa.me/5561983013768)
